@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿{
     "rdf-ext-menu": {
 		"rdf-xml": "RDF come RDF/XML",
@@ -211,3 +212,6 @@
 		"save-endpoint": "Salva endpoint"
 	}
 }
+=======
+﻿
+>>>>>>> refs/remotes/origin/master
